@@ -1,9 +1,8 @@
 export default function Page() {
-    return 
-    (
+    return (
         <>
             <p>contact page</p>
         </>
 
     )
-}
+};
